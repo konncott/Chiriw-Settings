@@ -1008,12 +1008,12 @@ do
 
     else
         DiscordWikiSection:AddParagraph({
-            Title = "https://twix.cyou/pix",
+            Title = "h",
             Content = "Paste it into the Browser Tab"
         })
 
         DiscordWikiSection:AddParagraph({
-            Title = "https://moderka.org/Open-Aimbot",
+            Title = "httt",
             Content = "Paste it into the Browser Tab"
         })
     end
@@ -1041,8 +1041,8 @@ do
             })
         else
             Window:Dialog({
-                Title = string.format("%s 💫PREMIUM💫", string.format(MonthlyLabels[os.date("*t").month], "Open Aimbot")),
-                Content = "✨Upgrade to unlock all Options✨ – Contact @ttwiz_z via Discord to buy",
+                Title = string.format("%s ", string.format(MonthlyLabels[os.date("*t").month], "Open Aimbot")),
+                Content = "✨",
                 Buttons = {
                     {
                         Title = "Confirm"
